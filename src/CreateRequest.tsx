@@ -237,7 +237,7 @@ const styles: Record<string, React.CSSProperties> = {
         backgroundColor: '#f9f9f9',
         minHeight: '100vh',
         background: 'linear-gradient(120deg, #181A20 60%, #1F2633 100%)',
-        paddingTop: 80, // для отступа под navbar2
+        paddingTop: 80, // для отступа под navbar
         color: '#fff'
     },
     formContainer: {
